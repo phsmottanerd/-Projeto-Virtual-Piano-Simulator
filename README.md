@@ -1,7 +1,5 @@
 # 🎹 Virtual Piano Simulator
 
-![Logo Dio](https://dio.me/assets/images/logo_dio.png)
-
 ## 📜 Descrição
 
 O **Virtual Piano Simulator** é um projeto interativo que permite aos usuários tocar um piano virtual. Este projeto foi desenvolvido em parceria com a Dio.me e é ideal para alunos de Front-End que desejam aprimorar suas habilidades em desenvolvimento web.
